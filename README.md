@@ -1,2 +1,2 @@
-# Grafo-DIMACS
+# Grafo DIMACS
  Grafo DIMACS
